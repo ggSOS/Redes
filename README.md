@@ -1,3 +1,3 @@
-# Servidor DHCP
-Servidor DHCP distribuindo IPv4 para 39 computadores através de 2 Switches modelo 2960
-![Modelo_Imagem](https://github.com/user-attachments/assets/efd01150-992e-4882-a75c-9d19eaeb2670)
+# Projetos de Rede
+Projetos de Redes criadas no Cisco Packet Tracer
+# ![image](https://github.com/user-attachments/assets/039993f0-790b-47fa-bf0a-4d7d43bb1a54)
